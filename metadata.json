@@ -1,0 +1,5 @@
+{
+  "name": "Comic Creator AI",
+  "description": "An AI-powered application to generate character sheets, story plots, and comic book panels based on user descriptions. It uses Gemini to bring your creative ideas to life.",
+  "requestFramePermissions": []
+}
