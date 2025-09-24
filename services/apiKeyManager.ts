@@ -1,5 +1,4 @@
-// WARNING: It is not recommended to hardcode API keys in the source code.
-// This is implemented as per user request. The preferred method is using environment variables.
+
 
 
 // Ensure the primary API key from environment variables is always first and included.
